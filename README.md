@@ -36,3 +36,9 @@ function onOpen() {
 }
 
 ```
+
+```
+---Message--- on a spreadsheet
+=concatenate("Hi ",B4,",",char(10),char(10),$C$4,char(10),char(10),D4,char(10),char(10),$B$2)
+
+```
