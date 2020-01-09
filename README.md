@@ -42,3 +42,4 @@ function onOpen() {
 =concatenate("Hi ",B4,",",char(10),char(10),$C$4,char(10),char(10),D4,char(10),char(10),$B$2)
 
 ```
+See [Spreadsheet image](http://prntscr.com/ql26dv)
